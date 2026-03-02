@@ -1,4 +1,12 @@
-## Hi there 👋
+# About me 👋
+
+- 🔭 I’m currently working on unknown land
+- 🌱 I’m currently learning about AI
+- 👯 I’m looking to collaborate on AI application development
+- 🤔 I’m looking for help with co-creation of Ai applications
+- 📫 How to reach me: It is currently hidden
+- ⚡ Fun fact: Music/Game/Writing and Making money
+
 
 <!--
 **WB-Meridian/WB-Meridian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
