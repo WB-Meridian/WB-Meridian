@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on unknown land
 - 💬 How to reach me: It is currently hidden
 - ⚡ Fun fact: Music/Game/Writing and Making money
-
+- 
 - 🤔 I’m looking for help with co-creation of Ai applications
 - 👯 I’m looking to collaborate on AI application development
   
